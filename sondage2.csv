@@ -1,0 +1,87 @@
+Horodateur,Première ville,Seconde ville,Troisième ville,Environnement,Vie sociale,Accès à la culture,Sécurité,Facilité de transport,Accès à l'emploi,Vie de famille,Coût de la vie,Mer,Montagne,Toulouse,Marseille,Alès,Paris,Annecy,Bordeaux,Lyon,La Rochelle,Saint Chamas,Note max,Proche de la mer?,Proche de la montagne
+22/01/2021 14:04:02,Toulouse,Annecy,La Rochelle,10,7,8,7,10,8,5,7,0,1,5,1,1,1,5,3,1,5,4,5,Pas important,Je veux vivre près des montagnes
+22/01/2021 14:40:49,Toulouse,Lyon,Marseille,7,6,6,7,7,6,3,2,1,0,5,3,2,2,3,3,4,3,2,5,Je veux vivre près de la mer,Pas important
+24/01/2021 15:40:02,Marseille,Paris,Annecy,8,10,10,10,10,10,10,3,1,0,1,4,1,4,3,3,2,1,1,4,Je veux vivre près de la mer,Pas important
+24/01/2021 15:41:44,Lyon,Toulouse,Bordeaux,5,10,3,10,10,10,10,6,1,1,3,2,1,1,2,3,5,1,2,5,Je veux vivre près de la mer,Je veux vivre près des montagnes
+24/01/2021 15:42:38,Toulouse,Annecy,Lyon,10,10,9,8,8,10,3,6,0,0,5,3,2,1,5,2,5,2,2,5,Pas important,Pas important
+24/01/2021 15:43:10,Toulouse,Marseille,Alès,9,7,7,10,10,8,9,9,1,0,4,4,3,1,3,2,3,3,3,4,Je veux vivre près de la mer,Pas important
+24/01/2021 15:43:12,Annecy,Toulouse,Toulouse,8,7,7,10,10,10,8,7,0,0,4,2,2,1,5,5,4,4,3,5,Pas important,Pas important
+24/01/2021 15:44:09,Saint Chamas,Toulouse,Alès,6,7,7,10,5,6,10,7,0,0,3,1,3,1,3,3,3,3,5,5,Pas important,Pas important
+24/01/2021 15:48:11,Toulouse,Marseille,Toulouse,10,7,10,10,8,10,10,8,0,0,4,4,3,1,4,4,4,4,4,4,Pas important,Pas important
+24/01/2021 15:55:24,Paris,Lyon,Annecy,6,8,9,10,10,9,9,7,1,0,3,1,1,5,4,4,5,3,2,5,Je veux vivre près de la mer,Pas important
+24/01/2021 16:04:23,Annecy,Bordeaux,Toulouse,8,4,4,9,9,10,10,7,1,0,4,3,3,3,5,5,4,4,4,5,Je veux vivre près de la mer,Pas important
+24/01/2021 16:07:02,Lyon,Toulouse,Annecy,10,8,8,10,10,10,10,10,1,0,3,1,1,1,3,3,4,3,4,4,Je veux vivre près de la mer,Pas important
+24/01/2021 16:22:14,Toulouse,Annecy,Toulouse,8,7,7,10,7,8,8,6,0,0,4,1,2,1,4,3,4,4,3,4,Pas important,Pas important
+24/01/2021 16:22:49,Saint Chamas,Marseille,Marseille,10,9,9,8,6,8,8,7,1,1,3,4,3,3,4,3,2,4,5,5,Je veux vivre près de la mer,Je veux vivre près des montagnes
+24/01/2021 16:30:46,Annecy,La Rochelle,Toulouse,5,9,7,10,6,10,8,7,1,1,3,1,1,1,5,2,1,4,1,5,Je veux vivre près de la mer,Je veux vivre près des montagnes
+24/01/2021 16:34:21,Toulouse,Annecy,Bordeaux,10,8,8,9,10,10,9,9,1,1,3,1,1,1,3,3,1,1,1,3,Je veux vivre près de la mer,Je veux vivre près des montagnes
+24/01/2021 16:35:36,Paris,Lyon,La Rochelle,8,10,9,10,10,10,10,10,1,0,3,1,1,4,3,3,4,4,2,4,Je veux vivre près de la mer,Pas important
+24/01/2021 16:43:14,Lyon,Toulouse,Annecy,5,8,8,10,10,10,8,5,0,1,4,1,1,3,4,4,5,2,2,5,Pas important,Je veux vivre près des montagnes
+24/01/2021 17:22:45,Toulouse,Annecy,Toulouse,8,9,9,8,7,6,9,7,1,1,5,2,1,2,4,3,2,3,3,5,Je veux vivre près de la mer,Je veux vivre près des montagnes
+24/01/2021 17:23:08,Toulouse,Annecy,Bordeaux,10,10,10,10,10,10,6,5,0,0,4,2,1,3,4,4,2,3,3,4,Pas important,Pas important
+24/01/2021 17:25:36,Alès,Toulouse,Toulouse,8,8,9,8,9,8,8,9,1,1,4,3,5,2,4,4,3,4,4,5,Je veux vivre près de la mer,Je veux vivre près des montagnes
+24/01/2021 18:03:38,Annecy,La Rochelle,Saint Chamas,7,7,4,10,5,4,7,6,1,0,2,1,1,1,3,2,2,3,3,3,Je veux vivre près de la mer,Pas important
+24/01/2021 18:36:23,Toulouse,Annecy,La Rochelle,7,9,10,10,10,10,6,10,1,0,5,1,3,4,5,3,2,5,3,5,Je veux vivre près de la mer,Pas important
+24/01/2021 20:46:30,Paris,Toulouse,Annecy,4,10,10,10,10,10,4,8,1,0,3,1,1,5,2,2,2,1,1,5,Je veux vivre près de la mer,Pas important
+24/01/2021 21:09:11,Toulouse,Bordeaux,Lyon,7,9,6,9,8,10,5,8,1,0,4,2,1,3,3,4,4,2,1,4,Je veux vivre près de la mer,Pas important
+25/01/2021 01:11:36,Toulouse,Annecy,Toulouse,6,8,5,10,10,10,8,9,0,0,5,3,3,1,4,3,4,3,3,5,Pas important,Pas important
+25/01/2021 17:31:24,Paris,Lyon,Toulouse,8,8,10,8,8,8,8,2,1,0,3,3,1,4,3,3,4,2,1,4,Je veux vivre près de la mer,Pas important
+,Annecy,,,9,6,5,10,7,5,7,4,0,1,,,,,,,,,,,,
+,Annecy,,,10,5,7,8,6,4,6,3,0,1,,,,,,,,,,,,
+,Annecy,,,10,8,6,9,5,7,7,5,0,1,,,,,,,,,,,,
+,Annecy,,,9,3,4,7,7,5,7,5,1,1,,,,,,,,,,,,
+,Alès,,,10,6,6,6,5,6,7,10,0,1,,,,,,,,,,,,
+,Alès,,,9,4,4,6,5,7,4,9,0,0,,,,,,,,,,,,
+,Lyon,Paris,,7,10,10,5,5,10,6,3,0,1,,,,,,,,,,,,
+,Lyon,,,6,9,10,5,7,10,6,2,0,1,,,,,,,,,,,,
+,Lyon,,,7,8,9,6,6,8,5,5,0,0,,,,,,,,,,,,
+,Lyon,,,7,9,7,7,7,10,6,6,0,0,,,,,,,,,,,,
+,Marseille,,,7,10,6,6,5,7,3,9,1,1,,,,,,,,,,,,
+,Marseille,,,6,9,6,5,6,8,4,8,1,1,,,,,,,,,,,,
+,Marseille,,,5,8,10,4,7,9,5,6,1,0,,,,,,,,,,,,
+,Marseille,,,5,7,10,4,6,10,6,5,1,0,,,,,,,,,,,,
+,Marseille,,,6,7,7,3,6,10,4,6,1,0,,,,,,,,,,,,
+,Saint Chamas,,,7,4,6,7,5,4,8,3,1,0,,,,,,,,,,,,
+,Saint Chamas,,,8,5,7,10,4,3,9,4,0,0,,,,,,,,,,,,
+,Saint Chamas,,,9,5,8,10,5,3,6,7,1,0,,,,,,,,,,,,
+,Saint Chamas,,,10,4,5,9,7,2,7,8,1,0,,,,,,,,,,,,
+,Saint Chamas,,,10,7,4,8,8,5,8,9,1,0,,,,,,,,,,,,
+,Saint Chamas,,,9,5,5,8,9,6,9,4,1,0,,,,,,,,,,,,
+,Saint Chamas,,,7,4,6,8,6,2,7,5,1,0,,,,,,,,,,,,
+,Saint Chamas,,,6,3,9,9,5,4,8,6,0,0,,,,,,,,,,,,
+,Saint Chamas,,,6,4,8,10,4,4,8,5,1,1,,,,,,,,,,,,
+,Saint Chamas,,,5,6,7,9,4,3,9,5,0,1,,,,,,,,,,,,
+,Bordeaux,,,7,10,10,8,5,6,7,4,1,1,,,,,,,,,,,,
+,Bordeaux,,,9,8,8,7,8,6,6,5,1,0,,,,,,,,,,,,
+,Bordeaux,,,9,7,7,6,7,7,5,6,1,0,,,,,,,,,,,,
+,Bordeaux,,,10,7,6,7,6,9,7,5,0,0,,,,,,,,,,,,
+,Bordeaux,,,10,8,7,6,7,10,8,7,0,0,,,,,,,,,,,,
+,Paris,,,4,10,10,7,10,9,3,3,0,1,,,,,,,,,,,,
+,Paris,,,5,10,10,9,6,7,2,4,0,1,,,,,,,,,,,,
+,Paris,,,6,9,9,7,8,8,1,2,1,0,,,,,,,,,,,,
+,Paris,,,7,8,8,6,7,8,1,1,0,0,,,,,,,,,,,,
+,Paris,Lyon,,8,8,8,5,6,9,4,1,0,0,,,,,,,,,,,,
+,Paris,Lyon,,9,9,10,4,5,10,8,2,0,0,,,,,,,,,,,,
+,Paris,Annecy,,10,10,10,5,7,10,3,3,0,0,,,,,,,,,,,,
+,La Rochelle,Bordeaux,,10,8,10,10,6,3,6,5,1,0,,,,,,,,,,,,
+,La Rochelle,Marseille,,10,9,8,9,5,5,7,6,1,0,,,,,,,,,,,,
+,La Rochelle,Toulouse,,6,6,7,8,4,4,7,7,1,0,,,,,,,,,,,,
+,La Rochelle,Marseille,,7,5,6,7,3,9,3,8,1,0,,,,,,,,,,,,
+,La Rochelle,Bordeaux,,8,5,8,5,6,8,5,2,1,1,,,,,,,,,,,,
+,La Rochelle,,,9,5,9,6,7,7,5,4,1,1,,,,,,,,,,,,
+,La Rochelle,,,8,5,4,7,8,5,6,5,1,0,,,,,,,,,,,,
+,La Rochelle,,,7,6,5,9,7,6,7,5,1,0,,,,,,,,,,,,
+,La Rochelle,,,6,7,6,10,5,8,8,6,0,0,,,,,,,,,,,,
+,La Rochelle,,,5,7,6,10,6,7,7,6,0,0,,,,,,,,,,,,
+,La Rochelle,,,6,8,6,8,8,5,6,5,1,0,,,,,,,,,,,,
+,La Rochelle,,,7,7,7,7,9,6,6,7,1,0,,,,,,,,,,,,
+,La Rochelle,,,8,7,6,8,7,5,5,4,1,0,,,,,,,,,,,,
+,Toulouse,,,8,10,5,10,9,10,10,8,1,1,,,,,,,,,,,,
+,Toulouse,,,9,9,10,8,8,10,7,7,1,0,,,,,,,,,,,,
+,Toulouse,,,7,8,9,7,9,10,6,6,0,1,,,,,,,,,,,,
+,Toulouse,,,7,7,8,6,8,10,5,5,0,0,,,,,,,,,,,,
+,Toulouse,,,7,6,7,8,7,9,10,6,0,0,,,,,,,,,,,,
+,Toulouse,,,8,8,6,7,6,8,9,7,0,0,,,,,,,,,,,,
+,Toulouse,,,5,9,5,6,7,7,8,5,0,0,,,,,,,,,,,,
+,Toulouse,,,6,8,10,5,9,6,7,4,0,0,,,,,,,,,,,,
+,Toulouse,,,6,10,8,8,10,8,6,3,0,0,,,,,,,,,,,,
